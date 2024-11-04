@@ -1,0 +1,200 @@
+[
+    [
+        "ID: R01010",
+        "Number code: 036",
+        "Currency: AUD",
+        "Nominal: 1",
+        "Name: Австралийский доллар",
+        "Value: 62,8658",
+        "Unit Rate: 62,8658"
+    ],
+    [
+        "ID: R01020A",
+        "Number code: 944",
+        "Currency: AZN",
+        "Nominal: 1",
+        "Name: Азербайджанский манат",
+        "Value: 58,5032",
+        "Unit Rate: 58,5032"
+    ],
+    [
+        "ID: R01035",
+        "Number code: 826",
+        "Currency: GBP",
+        "Nominal: 1",
+        "Name: Фунт стерлингов Соединенного королевства",
+        "Value: 120,1422",
+        "Unit Rate: 120,1422"
+    ],
+    [
+        "ID: R01090B",
+        "Number code: 933",
+        "Currency: BYN",
+        "Nominal: 1",
+        "Name: Белорусский рубль",
+        "Value: 29,8423",
+        "Unit Rate: 29,8423"
+    ],
+    [
+        "ID: R01100",
+        "Number code: 975",
+        "Currency: BGN",
+        "Nominal: 1",
+        "Name: Болгарский лев",
+        "Value: 53,2360",
+        "Unit Rate: 53,236"
+    ],
+    [
+        "ID: R01115",
+        "Number code: 986",
+        "Currency: BRL",
+        "Nominal: 1",
+        "Name: Бразильский реал",
+        "Value: 19,4641",
+        "Unit Rate: 19,4641"
+    ],
+    [
+        "ID: R01200",
+        "Number code: 344",
+        "Currency: HKD",
+        "Nominal: 1",
+        "Name: Гонконгский доллар",
+        "Value: 12,7246",
+        "Unit Rate: 12,7246"
+    ],
+    [
+        "ID: R01210",
+        "Number code: 981",
+        "Currency: GEL",
+        "Nominal: 1",
+        "Name: Грузинский лари",
+        "Value: 37,1075",
+        "Unit Rate: 37,1075"
+    ],
+    [
+        "ID: R01215",
+        "Number code: 208",
+        "Currency: DKK",
+        "Nominal: 1",
+        "Name: Датская крона",
+        "Value: 13,9600",
+        "Unit Rate: 13,96"
+    ],
+    [
+        "ID: R01230",
+        "Number code: 784",
+        "Currency: AED",
+        "Nominal: 1",
+        "Name: Дирхам ОАЭ",
+        "Value: 27,0775",
+        "Unit Rate: 27,0775"
+    ],
+    [
+        "ID: R01235",
+        "Number code: 840",
+        "Currency: USD",
+        "Nominal: 1",
+        "Name: Доллар США",
+        "Value: 99,4555",
+        "Unit Rate: 99,4555"
+    ],
+    [
+        "ID: R01239",
+        "Number code: 978",
+        "Currency: EUR",
+        "Nominal: 1",
+        "Name: Евро",
+        "Value: 104,3024",
+        "Unit Rate: 104,3024"
+    ],
+    [
+        "ID: R01350",
+        "Number code: 124",
+        "Currency: CAD",
+        "Nominal: 1",
+        "Name: Канадский доллар",
+        "Value: 72,5370",
+        "Unit Rate: 72,537"
+    ],
+    [
+        "ID: R01355",
+        "Number code: 634",
+        "Currency: QAR",
+        "Nominal: 1",
+        "Name: Катарский риал",
+        "Value: 27,3229",
+        "Unit Rate: 27,3229"
+    ],
+    [
+        "ID: R01375",
+        "Number code: 156",
+        "Currency: CNY",
+        "Nominal: 1",
+        "Name: Китайский юань",
+        "Value: 13,5779",
+        "Unit Rate: 13,5779"
+    ],
+    [
+        "ID: R01530",
+        "Number code: 554",
+        "Currency: NZD",
+        "Nominal: 1",
+        "Name: Новозеландский доллар",
+        "Value: 58,7285",
+        "Unit Rate: 58,7285"
+    ],
+    [
+        "ID: R01565",
+        "Number code: 985",
+        "Currency: PLN",
+        "Nominal: 1",
+        "Name: Польский злотый",
+        "Value: 22,6030",
+        "Unit Rate: 22,603"
+    ],
+    [
+        "ID: R01585F",
+        "Number code: 946",
+        "Currency: RON",
+        "Nominal: 1",
+        "Name: Румынский лей",
+        "Value: 20,9879",
+        "Unit Rate: 20,9879"
+    ],
+    [
+        "ID: R01589",
+        "Number code: 960",
+        "Currency: XDR",
+        "Nominal: 1",
+        "Name: СДР (специальные права заимствования)",
+        "Value: 129,9983",
+        "Unit Rate: 129,9983"
+    ],
+    [
+        "ID: R01625",
+        "Number code: 702",
+        "Currency: SGD",
+        "Nominal: 1",
+        "Name: Сингапурский доллар",
+        "Value: 72,3260",
+        "Unit Rate: 72,326"
+    ],
+    [
+        "ID: R01710A",
+        "Number code: 934",
+        "Currency: TMT",
+        "Nominal: 1",
+        "Name: Новый туркменский манат",
+        "Value: 28,4159",
+        "Unit Rate: 28,4159"
+    ],
+    [
+        "ID: R01775",
+        "Number code: 756",
+        "Currency: CHF",
+        "Nominal: 1",
+        "Name: Швейцарский франк",
+        "Value: 108,2568",
+        "Unit Rate: 108,2568"
+    ]
+]
